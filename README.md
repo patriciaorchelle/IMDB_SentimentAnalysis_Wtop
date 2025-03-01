@@ -71,6 +71,6 @@ I was really disappointed by this movie. The plot was boring and predictable, an
    - Modèles avancés (future amélioration) : **, GloVe, Transformers (BERT, DistilBERT, etc.)**.
 
 
- **IV. Évaluation des performances**
+ **IV. Évaluation et Comparaison des performances** (pour chaque modèle et type de vectorisation)
 - **Métriques classiques** : Précision, Recall, F1-score, Matrice de confusion.
 - **Visualisation des erreurs** : Examiner les avis mal classifiés.
